@@ -2,8 +2,8 @@
 
 HTML Energy freewrite in Victoria, BC.
 
-Official poster: `./poster.html`
+Official poster: [https://fluffyponyy.github.io/html-energy-victoria/](poster)
 
-Prompts: `./prompts.md`
+[./prompts.md](Prompts here)
 
 Are.na URL for sharing websites: `\<pending>`
